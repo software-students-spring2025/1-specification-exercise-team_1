@@ -38,11 +38,7 @@ jobs:
       - name: Log pull request opened
         if: github.event_name == 'pull_request' && github.event.action == 'opened'
         run: |
-<<<<<<< Updated upstream
           pipenv run gitcommitlogger -r $(echo $REPOSITORY_URL) -t pull_request_opened -d $(echo $PR_CREATED_AT) -un $(echo $GITHUB_LOGIN) -o commit_stats.csv -u $(echo $COMMIT_LOG_API) -v
-=======
-          pipenv run gitcommitlogger -r $(echo $REPOSITORY_URL) -t pull_reques_opened -d $(echo $PR_CREATED_AT) -un $(echo $GITHUB_LOGIN) -o commit_stats.csv -u $COMMIT_LOG_API -v
->>>>>>> Stashed changes
       - name: Log pull request closed and merged
         if: github.event_name == 'pull_request' && github.event.action == 'closed' && github.event.pull_request.merged == true
         run: |
