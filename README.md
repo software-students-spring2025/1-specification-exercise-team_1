@@ -4,58 +4,43 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Polaris Wu: https://github.com/Polaris-Wu450
-
-Elena Li: https://github.com/HuixinLi-Elena
-
-Michael Liu: https://github.com/Michaelliu1017
-
-Eric Xu: https://github.com/EricXu1244
+- [Polaris Wu](https://github.com/Polaris-Wu450)
+- [Elena Li](https://github.com/HuixinLi-Elena)
+- [Michael Liu](https://github.com/Michaelliu1017)
+- [Eric Xu](https://github.com/EricXu1244)
 
 ## Stakeholders
 
 ### Villa Zhang, Undergraduate Student at UCLA
 
-Goals/Needs:
+#### Goals/Needs:
 
 - Quick reordering from frequently used restaurants
-
 - Clear delivery time estimates
-
 - Easy tracking of order status
-
 - Simple price comparison between restaurants
 
-Problems/Frustrations:
+#### Problems/Frustrations:
 
 - Too many steps to complete an order
-
 - Complex and cluttered interfaces
-
 - Hard to find previous orders
-
 - Overwhelming number of options and filters
 
 ### Kate Zeng, Data Analyst
 
-Goals/Needs:
+#### Goals/Needs:
 
 - Efficient ordering during short lunch breaks
-  
 - Reliable delivery time predictions
-
 - Easy access to nearby restaurant options
-
 - Clear display of restaurant ratings and reviews
 
-Problems/Frustrations:
+#### Problems/Frustrations:
 
 - Takes too long to browse through all options
-
 - Difficult to find recently ordered items
-
 - Inconsistent delivery time estimates
-
 - Too many promotional popups
 
 ## Product Vision Statement
