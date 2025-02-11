@@ -64,7 +64,8 @@ For users who find existing food delivery apps overwhelming, Woober Eats offers 
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+1. As a **busy student**, I want to quickly reorder from my past orders so that I can save time during study breaks.
+![UML_busy_student](UML_busy_student.png)
 
 ## Clickable Prototype
 
