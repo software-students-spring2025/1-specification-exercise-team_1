@@ -67,7 +67,7 @@ For users who find existing food delivery apps overwhelming, Woober Eats offers 
 1. As a **busy student**, I want to quickly reorder from my past orders so that I can save time during study breaks.
 ![UML_busy_student](UML_busy_student_1.3.png)
 2. As a **college student**, I want to easily find restaurants that offer authentic cuisine so that I can enjoy my favorite meals without hassle.
-![UML_collegeStudents](UML_collegeStudents.png)
+![UML_collegeStudents](UML_collegeStudents_2.png)
 
 ## Wireframe Diagram
 
