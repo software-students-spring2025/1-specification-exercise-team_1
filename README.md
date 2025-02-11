@@ -69,6 +69,10 @@ For users who find existing food delivery apps overwhelming, Woober Eats offers 
 2. As a **college student**, I want to easily find restaurants that offer authentic cuisine so that I can enjoy my favorite meals without hassle.
 ![UML_collegeStudents](UML_collegeStudents.png)
 
+## Wireframe diagram
+### Figma link
+https://www.figma.com/design/EvRCt5J4Dm65SVV4fiX40u/Woober-Eats-Wireframe-diagram?node-id=0-1&t=UPEUOVU53NcDPg4E-1
+
 ## Clickable Prototype
 
 [WooberEats](https://www.figma.com/proto/0NY5oPtD1NMwXB0cYLTrbz/Woober-Eats-Team?node-id=4-2&t=e765apebxwg1oja8-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2)
