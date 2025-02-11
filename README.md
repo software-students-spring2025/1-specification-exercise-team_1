@@ -68,4 +68,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/proto/0NY5oPtD1NMwXB0cYLTrbz/Woober-Eats-Team?node-id=4-2&t=AzKa4QTtLrcqHgFy-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2
